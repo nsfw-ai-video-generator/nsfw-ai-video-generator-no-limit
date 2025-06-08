@@ -3,9 +3,9 @@
 
 ## NSFW AI Video Generators
 
-* [Promptchan](https://nsfwgen.xyz/promptchan) - NSFW AI image and video generator
-* [PornWorks](https://nsfwgen.xyz/pornworks) - NSFW AI image and video generator, aswell as NSFW AI image to video generation. Includes free version.
-* [SpicyGen](https://nsfwgen.xyz/spicygen) - Allows you to turn images into NSFW videos
+* [Promptchan](https://nsfwgen.xyz/promptchan) [Most popular choice] - NSFW AI image and video generator
+* [PornWorks](https://nsfwgen.xyz/pornworks) [Low price, free version included] - NSFW AI image and video generator, aswell as NSFW AI image to video generation. Includes free version.
+* [SpicyGen](https://nsfwgen.xyz/spicygen) - [If you only want image to video] - Allows you to turn images into NSFW videos
 * [SEDUCED](https://nsfwgen.xyz/seduced) - NSFW AI image and video generator
 
 
