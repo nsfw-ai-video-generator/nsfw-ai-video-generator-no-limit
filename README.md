@@ -9,7 +9,7 @@
 * [SEDUCED](https://nsfwgen.xyz/seduced) - NSFW AI image and video generator
 
 
-### Other AI Generators
+### Other NSFW AI Generators
 
 * [Ourdream](https://nsfwgen.xyz/ourdream) - AI Girlfriend generator with nsfw image and video generating. 
 * [CandyAI](https://nsfwgen.xyz/candyai) - AI Girlfriend generator with nsfw image generating.
