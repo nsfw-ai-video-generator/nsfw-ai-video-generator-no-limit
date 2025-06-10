@@ -11,9 +11,13 @@
 
 ### Other NSFW AI Generators
 
+* [CandyAI](https://nsfwgen.xyz/candyai) [Most popular AI girlfriend gen atm] - AI Girlfriend generator with nsfw image generating.
+* [Swipey](https://nsfwgen.xyz/swipey) - Create your own AI girlfriend. 
+* [fantasyAI](https://nsfwgen.xyz/fantasyAI) - AI Girlfriend generator with nsfw image generating.
+* [dreamGF](https://nsfwgen.xyz/dreamGF) - AI Girlfriend generator with nsfw image generating.
 * [Ourdream](https://nsfwgen.xyz/ourdream) - AI Girlfriend generator with nsfw image and video generating. 
-* [CandyAI](https://nsfwgen.xyz/candyai) - AI Girlfriend generator with nsfw image generating.
 * [GirlFriendGPT](https://nsfwgen.xyz/girlfriendgpt) - AI Girlfriend generator with nsfw image and video generating
-* [Thotchat](https://nsfwgen.xyz/thotchat) - AI Girlfriend generator with nsfw image generating 
+* [Thotchat](https://nsfwgen.xyz/thotchat) - AI Girlfriend generator with nsfw image generating
+* [eHentai](https://nsfwgen.xyz/ehentai) - Anime AI girlfriend generator with nsfw image generating.
 
 Browse more NSFW AI Generators here: [NSFWGEN.XYZ](https://nsfwgen.xyz)
