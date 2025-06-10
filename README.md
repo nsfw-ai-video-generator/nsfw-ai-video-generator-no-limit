@@ -18,6 +18,6 @@
 * [Ourdream](https://nsfwgen.xyz/ourdream) - AI Girlfriend generator with nsfw image and video generating. 
 * [GirlFriendGPT](https://nsfwgen.xyz/girlfriendgpt) - AI Girlfriend generator with nsfw image and video generating
 * [Thotchat](https://nsfwgen.xyz/thotchat) - AI Girlfriend generator with nsfw image generating
-* [eHentai](https://nsfwgen.xyz/ehentai) - Anime AI girlfriend generator with nsfw image generating.
+* [eHentai](https://nsfwgen.xyz/eHentai) - Anime AI girlfriend generator with nsfw image generating.
 
 Browse more NSFW AI Generators here: [NSFWGEN.XYZ](https://nsfwgen.xyz)
