@@ -1,6 +1,8 @@
 # Best NSFW AI Video Generators With No Limits
 
 
+# Which one you should choose
+
 ### Best NSFW AI Video & Image Generator 
 
 [Promptchan](https://nsfwgen.xyz/promptchan)
@@ -13,11 +15,11 @@
 
 [SpicyGen](https://nsfwgen.xyz/spicygen)
 
-### Most popular NSFW AI Girlfriend Generator
+### Best NSFW AI Girlfriend Generator
 
 [CandyAI](https://nsfwgen.xyz/candyai)
 
-### Other NSFW AI Generators
+### Other Good NSFW AI Generators
 
 * [Ourdream](https://nsfwgen.xyz/ourdream) - AI Girlfriend generator with nsfw image and video generating. 
 * [GirlFriendGPT](https://nsfwgen.xyz/girlfriendgpt) - AI Girlfriend generator with nsfw image and video generating
