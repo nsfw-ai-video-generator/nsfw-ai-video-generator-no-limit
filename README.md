@@ -3,23 +3,23 @@
 
 # Which one you should choose
 
-### Best NSFW AI Video & Image Generator 
+### Best & Most Popular NSFW AI Video & Image Generator:
 
 [Promptchan](https://nsfwgen.xyz/promptchan)
 
-### Best NSFW AI Video & Image Generator with Free Version
+### Best NSFW AI Video & Image Generator with Free Version:
 
 [PornWorks](https://nsfwgen.xyz/pornworks)
 
-### Best NSFW Image to Video Generator
+### Best NSFW Image to Video Generator:
 
 [SpicyGen](https://nsfwgen.xyz/spicygen)
 
-### Best NSFW AI Girlfriend Generator
+### Best NSFW AI Girlfriend Generator:
 
 [CandyAI](https://nsfwgen.xyz/candyai)
 
-### Other Good NSFW AI Generators
+### Other Good NSFW AI Generators:
 
 * [Ourdream](https://nsfwgen.xyz/ourdream) - AI Girlfriend generator with nsfw image and video generating. 
 * [GirlFriendGPT](https://nsfwgen.xyz/girlfriendgpt) - AI Girlfriend generator with nsfw image and video generating
