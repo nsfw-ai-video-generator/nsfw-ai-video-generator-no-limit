@@ -1,28 +1,15 @@
 # Best NSFW AI Video Generators With No Limits
 
+## NSFW AI Video Generators
 
-# Which one you should choose
+* [Promptchan](https://nsfwgen.xyz/promptchan) [🏆 Most popular choice] - NSFW AI image and video generator. Promptchan is probably the most popular nsfw video generator out right now. If you’re looking for the best choice it’s this.
+* [PornWorks](https://nsfwgen.xyz/pornworks) [🏷️ Low price, free version included] - NSFW AI image and video generator, aswell as NSFW AI image to video generation. Includes free version.
+* [SpicyGen](https://nsfwgen.xyz/spicygen) - Allows you to turn any image into NSFW videos.
 
-### Best & Most Popular NSFW AI Video & Image Generator:
+### Other NSFW AI Generators
 
-[Promptchan](https://nsfwgen.xyz/promptchan)
-
-### Best NSFW AI Video & Image Generator with Free Version:
-
-[PornWorks](https://nsfwgen.xyz/pornworks)
-
-### Best NSFW Image to Video Generator:
-
-[SpicyGen](https://nsfwgen.xyz/spicygen)
-
-### Best NSFW AI Girlfriend Generator:
-
-[CandyAI](https://nsfwgen.xyz/candyai)
-
-### Other Good NSFW AI Generators:
-
-* [Ourdream](https://nsfwgen.xyz/ourdream) - AI Girlfriend generator with nsfw image and video generating. 
+* [Ourdream](https://nsfwgen.xyz/ourdream) - AI Girlfriend generator with nsfw image and video generating.
+* [Thotchat](https://nsfwgen.xyz/thotchat) - AI Girlfriend generator with nsfw image generating 
 * [GirlFriendGPT](https://nsfwgen.xyz/girlfriendgpt) - AI Girlfriend generator with nsfw image and video generating
-* [eHentai](https://nsfwgen.xyz/eHentai) - Anime AI girlfriend generator with nsfw image generating.
 
 Browse more NSFW AI Generators here: [NSFWGEN.XYZ](https://nsfwgen.xyz)
