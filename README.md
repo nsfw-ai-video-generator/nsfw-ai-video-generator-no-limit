@@ -4,6 +4,9 @@ Here are the best NSFW AI Video Generators I've found after testing a bunch. \
 You will be satisfied with all of them!\
 Enjoy! 😃 
 
+![GitHub Repo stars](https://img.shields.io/github/stars/nsfw-ai-video-generator/nsfw-ai-video-generator-no-limit?style=social)
+Thanks for the support!
+
 ## Best NSFW AI Video Generators
 
 * [Promptchan](https://nsfwgen.xyz/promptchan) [🏆 Most popular choice] - NSFW AI image and video generator. Promptchan is probably the most popular nsfw video generator out right now. If you’re looking for the best choice it’s this.
