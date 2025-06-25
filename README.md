@@ -20,4 +20,4 @@ Thanks for the support!
 * [GirlFriendGPT](https://nsfwgen.xyz/girlfriendgpt) - AI Girlfriend generator with nsfw image and video generating
 * [MyBunny](https://nsfwgen.xyz/mybunny) - AI Girlfriend generator with nsfw image generating.
 
-Browse more NSFW AI Generators here: [NSFWGEN.XYZ](https://nsfwgen.xyz)
+Browse more NSFW AI Generators here: [NSFW AI Generators](https://linktr.ee/nsfwaigenerators)
